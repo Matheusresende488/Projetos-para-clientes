@@ -9,7 +9,7 @@
 }
 
 body{
-    background: #081b29;
+    background: black;
     color: #ededed;
 }
 .header{
@@ -39,7 +39,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: .4s;
 }
@@ -81,7 +81,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 1s;
 }
@@ -102,7 +102,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 1.3s;
 }
@@ -120,7 +120,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 1.6s;
 }
@@ -140,7 +140,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 1.9s;
     z-index: 2;
@@ -177,7 +177,7 @@ body{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #081b29;
+    background-color: black;
     z-index: -1;
     transition: .5s;
 }
@@ -205,7 +205,7 @@ body{
     right: 0;
     width: 100%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 2.5s;
     z-index: 2;
@@ -260,7 +260,7 @@ body{
     pointer-events: none;
 }
 .home-imghover:hover{
-    background: #081b29;
+    background: black;
     opacity: .8;
 }
 
@@ -271,7 +271,7 @@ body{
     right: 0;
     width: 125%;
     height: 100%;
-    background: #081b29;
+    background: black;
     animation: showRight 1s ease forwards;
     animation-delay: 3s;
     z-index: 100;
@@ -289,4 +289,7 @@ body{
     100%{
         pointer-events: auto;
     }
+}
+.img1{
+    width: 500px;
 }
