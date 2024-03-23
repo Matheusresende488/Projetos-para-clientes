@@ -8,6 +8,13 @@
     font-family: "Poppins", sans-serif ;
 }
 
+::-webkit-scrollbar{
+    width: 0px;
+}
+::-webkit-scrollbar-thumb{
+    width: 0px;
+}
+
 body{
     background: black;
     color: #ededed;
@@ -194,8 +201,8 @@ body{
     position: absolute;
     bottom: 40px;
     width: 170px;
-    display: flex;
-    justify-content: space-between;
+    display: inline-block;
+    justify-content: space-evenly;
 }
 
 .home-sci::before{
@@ -292,4 +299,20 @@ body{
 }
 .img1{
     width: 500px;
+}
+h3{
+    position: relative;
+    margin-bottom: 30px;
+    margin-left:110px ;
+    margin-top: 6px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #00abf0;
+}
+.aboutme{
+    position: relative;
+    font-size: 16px;
+    margin-left: 120px;
+    margin-right: 80px;
+    margin-bottom: 50px;
 }
