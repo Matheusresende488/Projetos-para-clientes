@@ -335,7 +335,7 @@ img{
 }
 .tecnologias{
     margin: 15px;
-    border-style: ridge;
+    border-style: outset;
     display: flexbox;
     height: 250px;
     border-radius: 50px;
