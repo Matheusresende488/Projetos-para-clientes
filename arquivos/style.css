@@ -258,7 +258,7 @@ body{
     position: absolute;
     top: 0;
     right: 30px;
-    width: 500px;
+    width: 535px;
     height: 100%;
     background: transparent;
     transition: 3s;
@@ -314,5 +314,66 @@ h3{
     font-size: 16px;
     margin-left: 120px;
     margin-right: 80px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
+}
+img{
+    padding-top: 15px;
+    padding-left: 30px;
+    margin-right:60px ;
+}
+.tecnologias:hover{
+    color: #01131a;
+    transition: 1.5s;
+    background-color: #01709c;
+}
+.tec{
+    position: relative;
+    margin-left: 250px;
+    margin-top: 1px;
+    padding-bottom: 100px;
+    display: inline;
+}
+.tecnologias{
+    margin: 15px;
+    border-style: ridge;
+    display: flexbox;
+    height: 250px;
+    border-radius: 50px;
+    background-color: #081b29;
+}
+.ae{
+    font-size: medium;
+    position: absolute;
+    left: 178px;
+}
+.ps{
+    font-size: medium;
+    position: absolute;
+    left: 598px;
+}
+.pr{
+    font-size: medium;
+    position: absolute;
+    left: 1021px;
+}
+.ea{
+    position: relative;
+    text-align:center;
+    width: 22%;
+    top: 45px;
+    left: 159px;
+}
+.sp{
+    position: relative;
+    text-align:center;
+    width: 22%;
+    bottom: 25px;
+    left: 578px;  
+}
+.rp{
+    position: relative;
+    text-align:center;
+    width: 22%;
+    bottom: 97px;
+    left: 1001px;
 }
