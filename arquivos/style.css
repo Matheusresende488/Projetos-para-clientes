@@ -322,7 +322,7 @@ img{
     margin-right:60px ;
 }
 .tecnologias:hover{
-    color: #01131a;
+    color: #ffffff;
     transition: 1.5s;
     background-color: #01709c;
 }
@@ -376,4 +376,56 @@ img{
     width: 22%;
     bottom: 97px;
     left: 1001px;
+}
+.vde{
+    background-color: transparent;
+    color: #081b29;
+    margin: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+.reals1{
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+    left: 0px;
+    width: 16%;
+    height: 400px;
+    background: #ededed;
+}
+.reals2{
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+    left: 280px;
+    width: 16%;
+    height: 400px;
+    background: #ededed;
+}
+.reals3{
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+    left: 560px;
+    width: 16%;
+    height: 400px;
+    background: #ededed;
+}
+.reals4{
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+    left: 840px;
+    width: 16%;
+    height: 400px;
+    background: #ededed;
+}
+.reals5{
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 5px;
+    left: 1120px;
+    width: 16%;
+    height: 400px;
+    background: #ededed;
 }
